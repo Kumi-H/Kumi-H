@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kumi-H
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 
 
