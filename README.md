@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kumi-H
+- 👋 Hi, I’m @Kumi
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 
 
