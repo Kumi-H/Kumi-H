@@ -7,8 +7,14 @@ You can click the Preview link to take a look at your changes.
 ![github-readme-stats](https://k-repository-b3ka.vercel.app/api/top-langs/?username=Kumi-H&theme=panda)
 --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumi-H&theme=panda&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumi-H&theme=panda&show_icons=true)
+<a href="https://github.com/Kumi-H">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kumi-H&theme=panda&show_icons=true" />
+</a>
+<a href="https://github.com/Kumi-H">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumi-H&theme=panda&layout=compact" />
+</a>
+
+
 
 
 
