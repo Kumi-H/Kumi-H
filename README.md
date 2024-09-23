@@ -3,8 +3,6 @@
 <!---
 Kumi-H/Kumi-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-![github-readme-stats](https://k-repository-b3ka.vercel.app/api/?username=Kumi-H&theme=panda&show_icons=true)
-![github-readme-stats](https://k-repository-b3ka.vercel.app/api/top-langs/?username=Kumi-H&theme=panda)
 --->
 
 <a href="https://github.com/Kumi-H">
@@ -12,10 +10,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/Kumi-H">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumi-H&theme=panda&layout=compact" />
-</a>
-
-
-
+</a><br><br><br><br><br><br><br>
 
 
 ### 🌱 My Skills
