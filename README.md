@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🌱 My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,vue,html,css,nextjs,react,nuxtjs,tailwind,vuetify,bootstrap,express,fastapi,flask,prisma,postgres,firebase,aws,vscode,docker,git,nodejs,nginx,linux&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,vue,html,css,nextjs,react,nuxtjs,tailwind,vuetify,bootstrap,express,fastapi,flask,prisma,postgres,firebase,aws,vscode,docker,git,nodejs,nginx&theme=light&perline=10)](https://skillicons.dev)
 
