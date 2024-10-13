@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Kumiko
+## Hi👋 Welcom to my GitHub🦄
 
 <!---
 Kumi-H/Kumi-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
