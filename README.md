@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 ### 🌱 My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,html,css,nextjs,react,vue,nuxtjs,tailwind,vuetify,bootstrap,express,fastapi,flask,prisma,postgres,mysql,firebase,aws,vscode,docker,git,nodejs,nginx&theme=light&perline=10)](https://skillicons.dev)
 
+#### 🤖 Other Skills
+VBA, UiPath 
