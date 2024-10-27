@@ -5,6 +5,8 @@ Kumi-H/Kumi-H is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+![](https://komarev.com/ghpvc/?username=your-github-Kumi-H&color=blueviolet)
+
 <a href="https://github.com/Kumi-H">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kumi-H&theme=panda&show_icons=true" />
 </a>
@@ -18,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,html,css,nextjs,react,vue,nuxtjs,tailwind,vuetify,bootstrap,express,fastapi,flask,prisma,postgres,mysql,firebase,aws,vscode,docker,git,nodejs,nginx&theme=light&perline=10)](https://skillicons.dev)
 
 #### 🤖 Other Skills
-VBA, UiPath 
+VBA, GAS, UiPath 
