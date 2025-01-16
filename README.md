@@ -8,10 +8,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=your-github-Kumi-H&color=blueviolet)
 
 <a href="https://github.com/Kumi-H">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Kumi-H&theme=panda&show_icons=true" />
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=Kumi-H&theme=panda&show_icons=true" />
 </a>
 <a href="https://github.com/Kumi-H">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumi-H&theme=panda&layout=compact" />
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumi-H&theme=panda&layout=compact" />
 </a>
 <!-- <br><br><br><br><br><br><br><br> -->
 
